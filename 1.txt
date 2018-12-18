@@ -5,6 +5,8 @@ test2
 void aaaa
 {
 	a = 3;
+	int x,y = 0;
+	x = 3* y;
 }
 test
 test
