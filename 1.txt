@@ -4,7 +4,8 @@ test
 test2
 void aaaa
 {
-
+	int x,y = 0;
+	x = 3* y;
 }
 test
 test
